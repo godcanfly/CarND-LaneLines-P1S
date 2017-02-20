@@ -64,6 +64,4 @@ The draw solid line method is error-prone, I add too much adjustment to make sur
 
 ###3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+Make the draw solid line more efficiency.
